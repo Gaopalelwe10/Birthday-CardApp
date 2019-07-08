@@ -1,0 +1,35 @@
+:host {
+    ion-content {
+        --background: none;
+        background: url('/assets/img/bday.jpg');
+        background-size: cover;
+        background-position: center center;
+    }
+}
+
+.heading {
+    color: white;
+    padding: 5px 20px;
+    border-bottom: 1px solid #7044ff;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.0125em;
+}
+
+.ion-padding {
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.0125em;
+}
+
+.from {
+    position: absolute;
+    bottom: 30px;
+    right: 20px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 0.0125em;
+}
